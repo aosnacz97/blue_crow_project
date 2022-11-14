@@ -1,7 +1,7 @@
 # blue_crow_project
 A demo project for Blue Crow Sports Group
 
-## What are is that csv? 
+## What is that csv? 
 ### data.csv 
 This is the sample athlete data provided to me from Blue Crow.
 
