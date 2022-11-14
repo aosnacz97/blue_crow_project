@@ -19,6 +19,9 @@ norms.csv is norms against all data, norms_pos.csv is norms by position, norms_h
 ### error_log_folder
 This is simply where I dump any errors from the processing script so I can look back and see what may have gone wrong.
 
+### My Answers folder
+This folder contains my answers to the question asked via email
+
 ## What's the link to the finished app?
 https://aosnacz.shinyapps.io/blue_crow_dash/
 
