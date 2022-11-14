@@ -1,0 +1,20 @@
+"assessment","metric","sample_size","mean_value","sd_value"
+"30-15 IFT","Final Speed",33,18.17,1.3
+"30-15 IFT","VO2max",33,51.51,3.15
+"Anthropometry","Body Fat %",31,10.1,3.34
+"Anthropometry","Body Weight (lbs)",39,199.3,25.77
+"Anthropometry","Height (in)",31,72.13,2.47
+"CMJ (Force Plates)","Concentric Impulse",35,262.38,28.95
+"CMJ (Force Plates)","Concentric Impulse-100ms",35,143.68,23.94
+"CMJ (Force Plates)","Concentric Mean Power / BM",35,33.31,4.07
+"CMJ (Force Plates)","Eccentric Mean Power / BM",35,7.36,0.6
+"CMJ (Force Plates)","RSI-modified",35,61.47,9.97
+"CMJ (Force Plates)","Vertical Velocity at Takeoff",35,2.81,0.18
+"Max Running Speed","0-10y",35,1.66,0.1
+"Max Running Speed","0-30y",35,3.89,0.2
+"Max Running Speed","10-30y",35,2.24,0.13
+"Max Strength (TrapBar Deadlift)","Estimated 1RM",31,416.03,75.98
+"Max Strength (TrapBar Deadlift)","Relative Strength",31,1.83,0.22
+"Nordic Hamstring Strength","Lateral Assymetry %",36,3.83,13.44
+"Nordic Hamstring Strength","Left Hamstring Strength",36,369.27,93.59
+"Nordic Hamstring Strength","Right Hamstring Strength",36,382.72,81.16

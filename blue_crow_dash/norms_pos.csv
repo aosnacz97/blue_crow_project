@@ -1,0 +1,77 @@
+"position","assessment","metric","sample_size","mean_value","sd_value"
+"Center Field","30-15 IFT","Final Speed",3,17.67,0.76
+"Center Field","30-15 IFT","VO2max",3,50.37,2.01
+"Center Field","Anthropometry","Body Fat %",2,10.37,2.14
+"Center Field","Anthropometry","Body Weight (lbs)",5,216.62,23.9
+"Center Field","Anthropometry","Height (in)",2,69.88,2.12
+"Center Field","CMJ (Force Plates)","Concentric Impulse",4,269.26,18.26
+"Center Field","CMJ (Force Plates)","Concentric Impulse-100ms",4,144.3,13.37
+"Center Field","CMJ (Force Plates)","Concentric Mean Power / BM",4,34.1,2.78
+"Center Field","CMJ (Force Plates)","Eccentric Mean Power / BM",4,7.08,0.84
+"Center Field","CMJ (Force Plates)","RSI-modified",4,58.29,6.09
+"Center Field","CMJ (Force Plates)","Vertical Velocity at Takeoff",4,2.87,0.17
+"Center Field","Max Running Speed","0-10y",4,1.53,0.09
+"Center Field","Max Running Speed","0-30y",4,3.61,0.18
+"Center Field","Max Running Speed","10-30y",4,2.08,0.09
+"Center Field","Max Strength (TrapBar Deadlift)","Estimated 1RM",2,539.5,2.12
+"Center Field","Max Strength (TrapBar Deadlift)","Relative Strength",2,2.18,0.01
+"Center Field","Nordic Hamstring Strength","Lateral Assymetry %",5,9.7,16.93
+"Center Field","Nordic Hamstring Strength","Left Hamstring Strength",5,450.28,157.68
+"Center Field","Nordic Hamstring Strength","Right Hamstring Strength",5,488.02,100.11
+"Defender","30-15 IFT","Final Speed",22,18.2,1.25
+"Defender","30-15 IFT","VO2max",22,51.68,3.04
+"Defender","Anthropometry","Body Fat %",21,10.08,3.2
+"Defender","Anthropometry","Body Weight (lbs)",23,200.29,21.47
+"Defender","Anthropometry","Height (in)",20,72.88,2.33
+"Defender","CMJ (Force Plates)","Concentric Impulse",22,267.47,31.25
+"Defender","CMJ (Force Plates)","Concentric Impulse-100ms",22,147.3,26.91
+"Defender","CMJ (Force Plates)","Concentric Mean Power / BM",22,33.29,3.29
+"Defender","CMJ (Force Plates)","Eccentric Mean Power / BM",22,7.4,0.62
+"Defender","CMJ (Force Plates)","RSI-modified",22,61.82,9.08
+"Defender","CMJ (Force Plates)","Vertical Velocity at Takeoff",22,2.81,0.16
+"Defender","Max Running Speed","0-10y",22,1.67,0.1
+"Defender","Max Running Speed","0-30y",22,3.91,0.13
+"Defender","Max Running Speed","10-30y",22,2.25,0.08
+"Defender","Max Strength (TrapBar Deadlift)","Estimated 1RM",21,409.62,67.97
+"Defender","Max Strength (TrapBar Deadlift)","Relative Strength",21,1.78,0.21
+"Defender","Nordic Hamstring Strength","Lateral Assymetry %",22,0.86,8.65
+"Defender","Nordic Hamstring Strength","Left Hamstring Strength",22,352.14,64.96
+"Defender","Nordic Hamstring Strength","Right Hamstring Strength",22,352.22,57.34
+"Goalkeeper","30-15 IFT","Final Speed",3,19,1.8
+"Goalkeeper","30-15 IFT","VO2max",3,53.47,3.76
+"Goalkeeper","Anthropometry","Body Fat %",3,12.98,4.34
+"Goalkeeper","Anthropometry","Body Weight (lbs)",3,222.07,45.2
+"Goalkeeper","Anthropometry","Height (in)",3,72.04,2.44
+"Goalkeeper","CMJ (Force Plates)","Concentric Impulse",3,255.25,29.36
+"Goalkeeper","CMJ (Force Plates)","Concentric Impulse-100ms",3,143.57,16.48
+"Goalkeeper","CMJ (Force Plates)","Concentric Mean Power / BM",3,32.02,9.72
+"Goalkeeper","CMJ (Force Plates)","Eccentric Mean Power / BM",3,7.79,0.41
+"Goalkeeper","CMJ (Force Plates)","RSI-modified",3,62.72,21.2
+"Goalkeeper","CMJ (Force Plates)","Vertical Velocity at Takeoff",3,2.69,0.35
+"Goalkeeper","Max Running Speed","0-10y",3,1.74,0.04
+"Goalkeeper","Max Running Speed","0-30y",3,4.23,0.18
+"Goalkeeper","Max Running Speed","10-30y",3,2.49,0.14
+"Goalkeeper","Max Strength (TrapBar Deadlift)","Estimated 1RM",3,407.67,144.76
+"Goalkeeper","Max Strength (TrapBar Deadlift)","Relative Strength",3,1.92,0.26
+"Goalkeeper","Nordic Hamstring Strength","Lateral Assymetry %",3,-3.84,14.06
+"Goalkeeper","Nordic Hamstring Strength","Left Hamstring Strength",3,475.44,63.41
+"Goalkeeper","Nordic Hamstring Strength","Right Hamstring Strength",3,454.8,40.57
+"Striker","30-15 IFT","Final Speed",5,17.8,1.6
+"Striker","30-15 IFT","VO2max",5,50.26,3.96
+"Striker","Anthropometry","Body Fat %",5,8.33,3.42
+"Striker","Anthropometry","Body Weight (lbs)",8,177.1,15.54
+"Striker","Anthropometry","Height (in)",6,70.42,2.25
+"Striker","CMJ (Force Plates)","Concentric Impulse",6,242.69,20.12
+"Striker","CMJ (Force Plates)","Concentric Impulse-100ms",6,130.02,18.93
+"Striker","CMJ (Force Plates)","Concentric Mean Power / BM",6,33.49,4.82
+"Striker","CMJ (Force Plates)","Eccentric Mean Power / BM",6,7.18,0.42
+"Striker","CMJ (Force Plates)","RSI-modified",6,61.69,10.87
+"Striker","CMJ (Force Plates)","Vertical Velocity at Takeoff",6,2.83,0.2
+"Striker","Max Running Speed","0-10y",6,1.65,0.06
+"Striker","Max Running Speed","0-30y",6,3.83,0.16
+"Striker","Max Running Speed","10-30y",6,2.18,0.12
+"Striker","Max Strength (TrapBar Deadlift)","Estimated 1RM",5,398.6,37.97
+"Striker","Max Strength (TrapBar Deadlift)","Relative Strength",5,1.85,0.17
+"Striker","Nordic Hamstring Strength","Lateral Assymetry %",6,13.63,20.44
+"Striker","Nordic Hamstring Strength","Left Hamstring Strength",6,311.47,58.87
+"Striker","Nordic Hamstring Strength","Right Hamstring Strength",6,370.79,71.79

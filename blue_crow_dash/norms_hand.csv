@@ -1,0 +1,39 @@
+"laterality","assessment","metric","sample_size","mean_value","sd_value"
+"L","30-15 IFT","Final Speed",2,19,0
+"L","30-15 IFT","VO2max",2,53.45,0.35
+"L","Anthropometry","Body Fat %",2,12.22,3.41
+"L","Anthropometry","Body Weight (lbs)",2,203.05,39.39
+"L","Anthropometry","Height (in)",2,69.75,1.77
+"L","CMJ (Force Plates)","Concentric Impulse",2,268.51,48.65
+"L","CMJ (Force Plates)","Concentric Impulse-100ms",2,170.41,52.89
+"L","CMJ (Force Plates)","Concentric Mean Power / BM",2,37.51,0.61
+"L","CMJ (Force Plates)","Eccentric Mean Power / BM",2,8.11,0.3
+"L","CMJ (Force Plates)","RSI-modified",2,75.34,4.52
+"L","CMJ (Force Plates)","Vertical Velocity at Takeoff",2,2.93,0.09
+"L","Max Running Speed","0-10y",2,1.72,0.1
+"L","Max Running Speed","0-30y",2,3.93,0.07
+"L","Max Running Speed","10-30y",2,2.21,0.03
+"L","Max Strength (TrapBar Deadlift)","Estimated 1RM",2,423.5,115.26
+"L","Max Strength (TrapBar Deadlift)","Relative Strength",2,1.78,0.2
+"L","Nordic Hamstring Strength","Lateral Assymetry %",2,0,0
+"L","Nordic Hamstring Strength","Left Hamstring Strength",2,409.88,79.97
+"L","Nordic Hamstring Strength","Right Hamstring Strength",2,410.09,81.79
+"R","30-15 IFT","Final Speed",31,18.11,1.33
+"R","30-15 IFT","VO2max",31,51.38,3.21
+"R","Anthropometry","Body Fat %",29,9.95,3.35
+"R","Anthropometry","Body Weight (lbs)",37,199.1,25.63
+"R","Anthropometry","Height (in)",29,72.3,2.45
+"R","CMJ (Force Plates)","Concentric Impulse",33,262.01,28.53
+"R","CMJ (Force Plates)","Concentric Impulse-100ms",33,142.06,21.78
+"R","CMJ (Force Plates)","Concentric Mean Power / BM",33,33.05,4.05
+"R","CMJ (Force Plates)","Eccentric Mean Power / BM",33,7.31,0.59
+"R","CMJ (Force Plates)","RSI-modified",33,60.63,9.61
+"R","CMJ (Force Plates)","Vertical Velocity at Takeoff",33,2.8,0.18
+"R","Max Running Speed","0-10y",33,1.65,0.1
+"R","Max Running Speed","0-30y",33,3.89,0.2
+"R","Max Running Speed","10-30y",33,2.24,0.14
+"R","Max Strength (TrapBar Deadlift)","Estimated 1RM",29,415.52,75.54
+"R","Max Strength (TrapBar Deadlift)","Relative Strength",29,1.84,0.23
+"R","Nordic Hamstring Strength","Lateral Assymetry %",34,4.05,13.8
+"R","Nordic Hamstring Strength","Left Hamstring Strength",34,366.88,94.82
+"R","Nordic Hamstring Strength","Right Hamstring Strength",34,381.11,82.07

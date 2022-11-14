@@ -1,0 +1,58 @@
+"age_group","assessment","metric","sample_size","mean_value","sd_value"
+"17-21 year old","30-15 IFT","Final Speed",6,16.67,1.08
+"17-21 year old","30-15 IFT","VO2max",6,47.25,2.29
+"17-21 year old","Anthropometry","Body Fat %",8,8.27,2.7
+"17-21 year old","Anthropometry","Body Weight (lbs)",10,182.74,19.89
+"17-21 year old","Anthropometry","Height (in)",9,72.61,3.48
+"17-21 year old","CMJ (Force Plates)","Concentric Impulse",3,257.26,23.5
+"17-21 year old","CMJ (Force Plates)","Concentric Impulse-100ms",3,139.83,10.1
+"17-21 year old","CMJ (Force Plates)","Concentric Mean Power / BM",3,33.71,4
+"17-21 year old","CMJ (Force Plates)","Eccentric Mean Power / BM",3,6.94,0.38
+"17-21 year old","CMJ (Force Plates)","RSI-modified",3,59.01,8.15
+"17-21 year old","CMJ (Force Plates)","Vertical Velocity at Takeoff",3,2.82,0.17
+"17-21 year old","Max Running Speed","0-10y",6,1.62,0.07
+"17-21 year old","Max Running Speed","0-30y",6,3.84,0.14
+"17-21 year old","Max Running Speed","10-30y",6,2.22,0.09
+"17-21 year old","Max Strength (TrapBar Deadlift)","Estimated 1RM",3,375.67,30.44
+"17-21 year old","Max Strength (TrapBar Deadlift)","Relative Strength",3,1.72,0.13
+"17-21 year old","Nordic Hamstring Strength","Lateral Assymetry %",6,14.13,19.59
+"17-21 year old","Nordic Hamstring Strength","Left Hamstring Strength",6,307.75,68.89
+"17-21 year old","Nordic Hamstring Strength","Right Hamstring Strength",6,366.04,69.88
+"21-24 year old","30-15 IFT","Final Speed",27,18.39,1.31
+"21-24 year old","30-15 IFT","VO2max",27,51.85,3.17
+"21-24 year old","Anthropometry","Body Fat %",29,10.37,3.25
+"21-24 year old","Anthropometry","Body Weight (lbs)",32,202.64,24.29
+"21-24 year old","Anthropometry","Height (in)",25,71.99,2.1
+"21-24 year old","CMJ (Force Plates)","Concentric Impulse",26,259.27,25.7
+"21-24 year old","CMJ (Force Plates)","Concentric Impulse-100ms",26,142.09,27.22
+"21-24 year old","CMJ (Force Plates)","Concentric Mean Power / BM",26,32.95,4.05
+"21-24 year old","CMJ (Force Plates)","Eccentric Mean Power / BM",26,7.28,0.75
+"21-24 year old","CMJ (Force Plates)","RSI-modified",26,60.47,9.14
+"21-24 year old","CMJ (Force Plates)","Vertical Velocity at Takeoff",26,2.79,0.18
+"21-24 year old","Max Running Speed","0-10y",31,1.67,0.1
+"21-24 year old","Max Running Speed","0-30y",31,3.91,0.19
+"21-24 year old","Max Running Speed","10-30y",31,2.24,0.13
+"21-24 year old","Max Strength (TrapBar Deadlift)","Estimated 1RM",25,423.76,77.76
+"21-24 year old","Max Strength (TrapBar Deadlift)","Relative Strength",25,1.82,0.23
+"21-24 year old","Nordic Hamstring Strength","Lateral Assymetry %",32,2.13,10.37
+"21-24 year old","Nordic Hamstring Strength","Left Hamstring Strength",32,385.46,85.34
+"21-24 year old","Nordic Hamstring Strength","Right Hamstring Strength",32,392.12,79.9
+"25-29 year old","30-15 IFT","Final Speed",12,17.83,0.72
+"25-29 year old","30-15 IFT","VO2max",12,51.98,1.56
+"25-29 year old","Anthropometry","Body Fat %",7,12.21,3.25
+"25-29 year old","Anthropometry","Body Weight (lbs)",27,209.54,23.78
+"25-29 year old","Anthropometry","Height (in)",2,74,0.53
+"25-29 year old","CMJ (Force Plates)","Concentric Impulse",23,267.64,30.36
+"25-29 year old","CMJ (Force Plates)","Concentric Impulse-100ms",23,150.59,32.78
+"25-29 year old","CMJ (Force Plates)","Concentric Mean Power / BM",23,34.25,4.16
+"25-29 year old","CMJ (Force Plates)","Eccentric Mean Power / BM",23,7.35,0.95
+"25-29 year old","CMJ (Force Plates)","RSI-modified",23,66.1,10.56
+"25-29 year old","CMJ (Force Plates)","Vertical Velocity at Takeoff",23,2.85,0.19
+"25-29 year old","Max Running Speed","0-10y",18,1.63,0.08
+"25-29 year old","Max Running Speed","0-30y",18,3.91,0.19
+"25-29 year old","Max Running Speed","10-30y",18,2.19,0.11
+"25-29 year old","Max Strength (TrapBar Deadlift)","Estimated 1RM",11,431.82,62.84
+"25-29 year old","Max Strength (TrapBar Deadlift)","Relative Strength",11,2.12,0.24
+"25-29 year old","Nordic Hamstring Strength","Lateral Assymetry %",22,2.43,9.52
+"25-29 year old","Nordic Hamstring Strength","Left Hamstring Strength",22,430.98,104.44
+"25-29 year old","Nordic Hamstring Strength","Right Hamstring Strength",22,439.89,97.43
