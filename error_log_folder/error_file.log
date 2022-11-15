@@ -1,4 +1,7 @@
 `summarise()` has grouped output by 'assessment'. You can override using the `.groups` argument.
-`summarise()` has grouped output by 'position', 'assessment'. You can override using the `.groups` argument.
-`summarise()` has grouped output by 'age_group', 'assessment'. You can override using the `.groups` argument.
-`summarise()` has grouped output by 'laterality', 'assessment'. You can override using the `.groups` argument.
+`summarise()` has grouped output by 'position', 'assessment'. You can override using the `.groups`
+argument.
+`summarise()` has grouped output by 'age_group', 'assessment'. You can override using the `.groups`
+argument.
+`summarise()` has grouped output by 'laterality', 'assessment'. You can override using the `.groups`
+argument.
