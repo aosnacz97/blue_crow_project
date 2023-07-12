@@ -1,5 +1,5 @@
 # blue_crow_project
-A demo project for Blue Crow Sports Group
+A demo project for Blue Crow Sports Group (This project was made in a week and is super hacky and definitely some mistakes/inefficiencies)
 
 ## What is that csv? 
 ### data.csv 
